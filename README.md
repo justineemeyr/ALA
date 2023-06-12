@@ -1,4 +1,3 @@
-# wscuc
 <p align="center">
   <a href="https://www.wscuc.org/educational-programs/accreditation-leadership-academy/">
     <img width="1079" alt="Screen Shot 2022-06-16 at 3 40 03 PM" src="https://user-images.githubusercontent.com/108366364/176271404-3af2d922-0335-4398-83c7-d762bdd4ce82.png">
@@ -11,12 +10,23 @@
 
 ## Course Description
 
-Building on more than a decade of success with its Assessment Leadership Academy, the WASC Senior College and University Commission (WSCUC) is pleased to announce a new professional development opportunity: the Accreditation Leadership Academy (ALA). This program puts WSCUC’s values of inquiry and innovation into practice by strengthening leaders’ ability to examine central issues of higher education and orienting them to action.
+The WASC Senior College & University Commission Accreditation Leadership Academy (WSCUC) is a professional development program for higher education leaders. Through the application of both theoretical and practical frameworks for thought and action, the ALA considers the intersections and implications of:
+ 
+- The assurance of equity and the importance of inclusion and diversity in higher education culture and practice
+- The need for effective leadership, systems, and evidence to achieve quality
+ 
+It addresses these themes through a focus on **Equity, Evidence, and Effectiveness** in service of:
+ 
+- Enhancing individual professional practice
+- Addressing an institutional need
+- Developing skilled leadership in higher education
+ 
+The curriculum explores critical issues to produce actionable approaches to a pressing need identified by each participant and their institution. Participants learn through collaboration with Academy faculty and mentors, while simultaneously working with peers in various group settings. Faculty and mentors are leaders in higher education practice drawn from the WSCUC community and from the broader community of international scholars and professionals, WSCUC Fellows, Assessment Leadership Academy alumni, and Community of Practice (CoP) participants.
 
 
 ## Course Specifics
 
-**Course Delivery**: Hybrid | 7 months | July 5, 2022 - January 13, 2023
+| **Course Delivery**:   In Person / [Moodle](https://wscuc.moodlecloud.com/) | 10 months | July 24, 2023 - April 18, 2024 |
 
 
 ## Learning Outcomes
@@ -38,55 +48,63 @@ By the end of the course, you will be able to ...
 ---
 
 
-**Course Dates:** Tuesday, July 5 2022 – Friday, January 13, 2023 
+**Course Dates:** Monday, July 24 2023 – Thursday, April 18, 2024 
 
-**In Person Meetings:** August 2-4 2022, October 26-29 2022, January 11-13 2023
+- *Due to the inductive model of the ALA, assignments will be added to the syllabus as the course proceeds*
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, July 5         | [Introduction] |  
-|  2 |  Thu, July 8         | [Leadership Readings] |
-| 3 |  Tue, Aug 2       | In person Meeting |
+
+| Activity |          Date Assigned    |  Due Date        |                 Topics                  |
+|:-----:|:----------------------:|:----------------------:|:---------------------------------------:|
+|  1 |  Mon, July 24    |   Mon, July 31  | [Introduction in Moodle]() |  
+| 2 |  Mon, July 24     |   Mon, July 31  | [Survey in Moodle]()  |
+|  3 |  Mon, July 31   |   Mon, Aug 7  | [Leadership Readings and Discussion in Moodle]() |
+| 4 |  Tue-Thu, Aug 8 - 10      |   N/A         | In Person Meeting    🙂  |
+| 5 | Thu, Aug 10      |   Thu, Aug 31        | [Assignment 2 Draft]() |
+| 6 |  Tue-Thu, Oct 24-26      |   N/A         | In Person Meeting    🙂  |
+| 7 | Tue-Thu, Jan 9-11      | N/A        | In Person Meeting 🙂   |
+| 8 | Wed-Thu, April 17-18   | N/A  | ARC - In Person Meeting 🙂  |
+
 
 
 ---
 
 
 
-[Introduction]: Lessons/Lesson1.md
-[Leadership Readings]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
-[Lesson 14]: Lessons/Lesson14.md
-[Lesson 15]: Lessons/Lesson14.md
-[Lesson 16]: Lessons/Lesson14.md
-[Lesson 17]: Lessons/Lesson14.md
-[Lesson 18]: Lessons/Lesson14.md
-[Lesson 19]: Lessons/Lesson14.md
-[Lesson 20]: Lessons/Lesson14.md
-
-
 ## In Person Meetings
-**August 2-4, 2022**
+**August 8-10, 2023**
+Locaion: 
 
-- **Day 1 Arrival: August 2**:  Block 1: Welcome Presentation | 2pm-5pm
-- **Day 2 Morning: August 3**: Block 2: Equity Presentation | Block 3: Conversation and Contextualization
-- **Day 2 Afternoon: August 3**: Block 4: Evidence Presentation   | Block 5: Conversation and Contextualization
-- **Day 3 Morning: August 4**: Block 6: Effectiveness Presentation   | Block 7: Conversation and Contextualization
-- **Day 3 Afternoon: August 4**: Block 8: Closing Thoughts
+|        | Morning   | Morning   |  Afternoon   |  Afternoon |
+|:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+|   **Day 1:**  | Arrival | Check In  |Block 1:  |  Block 1:  |
+|   **Day 2:** | Block 2:  | Block 3:  | Block 4:   | Block 5:  |
+|   **Day 3:** | Block 6:   | Block 7:  | Block 8:  | Check Out  |
 
-**October 26-29,2022**
+**October 26-28,2023**
+Location: 
 
-**January 11-13, 2023**
+|        | Morning     |  Afternoon    |
+|:-----------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+|   **Day 1:**  | Arrival / Lunch |Block 1:  |
+|   **Day 2:** | Block 2:  | Block 3: |
+|   **Day 3:** | Block 4: | Lunch / Check Out  |
+
+**January 9-11, 2024**
+Location:  
+
+|        | Morning     |  Afternoon    |
+|:-----------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+|   **Day 1:**  | Arrival / Lunch |Block 1:  |
+|   **Day 2:** | Block 2:  | Block 3:  | 
+|   **Day 3:** | Block 4: | Lunch / Check Out  |
+
+**January 17-18, 2024**
+Location:  
+
+|        | Morning     |  Afternoon    |
+|:-----------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+|   **Day 1:**  | Arrival / Lunch |Block 1:  |
+|   **Day 2:** | Block 2:  | Block 3:  | 
 
 
 ## Assignment Schedule 
@@ -94,17 +112,21 @@ By the end of the course, you will be able to ...
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Link to Assignment](makeschool.com)                      |  Tuesday, July 5  |  Tue, July 26 | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Assignment 1 Draft]()                   |  ???  |  ???| [Submit Assignment]()|
+| [Assignment 2 Draft]()          |  ??? |  ????  | [Submit Assignment]()  |
+| [Project Plan of Assignment 2]()        |  ???  |  ??? | [Submit Assignment]()  |
+| [Final Presentation of Assignment 1]()   | ???  | ??? | [Submit Assignment]()
+| [Final Draft of Assignment 2]()            |???  | ??? | [Submit Assignment]()
+
 
 ## Class Assignments
 
-We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to provide a collaborative space for the class. *All assigned work will be submitted through Moodle.*
+We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to provide a collaborative space for the class. 
+ *All assigned work will be submitted through Moodle; we recommend using [google chrome](https://www.google.com/chrome/downloads/) and adding [the moodle site](https://wscuc.moodlecloud.com/) to your ⭐ favorites in your webbrowser!*
 
 
-Your Moodle login is your institution email address, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). 
+Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. 
+- 🙋 For password questions or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org) 
 
 
 ## Evaluation
@@ -114,17 +136,19 @@ To pass this course you must meet the following requirements:
 
 - Complete all required assignments 
 - Attend all in person meetings
-- Contribute to the collective framework of Equity, Evidence and Effectivness
+- Contribute to the collective frameworks of Equity, Evidence and Effectivness
 
 ##  Information Resources
 
-Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+Any additional resources you may need can be found through the shared folder linked below:
 
-- [wascsenior.box](https://wascsenior.box.com/s/7chkbdsrvgqcqpgyccucsh8ipoc9mz7x)
+- [ALA Shared Resources]()
+- [ALA Collaborative Resource Library]()
+- [ALA Community of Practice]()
 
 
 
-## WSCUC Course Policies
+## WSCUC Policies and FAQs
 
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing WSCUC, all courses are designed around these outcomes.
-
+- [WSCUC Course Policies]()
+- [FAQs]()
