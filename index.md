@@ -72,7 +72,7 @@ By the end of the course, you will be able to ...
 
 ## In Person Meetings
 **August 8-10, 2023**
-Locaion: 
+Location: 
 
 |        | Morning   | Morning   |  Afternoon   |  Afternoon |
 |:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
@@ -112,11 +112,11 @@ Location:
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Assignment 1 Draft]()                   |  ???  |  ???| [Submit Assignment]()|
-| [Assignment 2 Draft]()          |  ??? |  ????  | [Submit Assignment]()  |
-| [Project Plan of Assignment 2]()        |  ???  |  ??? | [Submit Assignment]()  |
-| [Final Presentation of Assignment 1]()   | ???  | ??? | [Submit Assignment]()
-| [Final Draft of Assignment 2]()            |???  | ??? | [Submit Assignment]()
+| [Assignment 1 Draft]()                   |  ---  |  ---| [Submit Assignment]()|
+| [Assignment 2 Draft]()          |  --- |  ---  | [Submit Assignment]()  |
+| [Project Plan of Assignment 2]()        |  ---  |  --- | [Submit Assignment]()  |
+| [Final Presentation of Assignment 1]()   | ---  | --- | [Submit Assignment]()
+| [Final Draft of Assignment 2]()            |---  | --- | [Submit Assignment]()
 
 
 ## Class Assignments
@@ -150,6 +150,6 @@ Any additional resources you may need can be found through the shared folder lin
 
 ## WSCUC Policies and FAQs
 
-- [WSCUC Course Policies]()
-- [FAQs]()
+- [WSCUC Course Policies](https://wascsenior.box.com/s/qse8p2si0b832ynwmase66fduoawbd0y)
+- [FAQs](https://www.wscuc.org/educational-programs/accreditation-leadership-academy/faq/)
 
