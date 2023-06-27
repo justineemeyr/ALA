@@ -82,12 +82,12 @@ Location: Northern California
 |   **Day 2:** | Equity  | Equity  | Evidence  | Evidence  | Dinner with President Studley |
 |   **Day 3:** | Effectiveness  | Effectiveness  | Mentors and Next Steps  | Check Out  | --- |
 
-**October 26-28,2023**
+**October 24-26,2023**
 Location: Northern California
 
 |        | Morning     |  Afternoon    |
 |:-----------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|   **Day 1:**  | Arrival / Lunch |Block 1:  |
+|   **Day 1:**  | Intro / Lunch |Block 1:  |
 |   **Day 2:** | Block 2:  | Block 3: |
 |   **Day 3:** | Block 4: | Lunch / Check Out  |
 
@@ -96,7 +96,7 @@ Location:  Southern California
 
 |        | Morning     |  Afternoon    |
 |:-----------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|   **Day 1:**  | Arrival / Lunch |Block 1:  |
+|   **Day 1:**  | Intro / Lunch |Block 1:  |
 |   **Day 2:** | Block 2:  | Block 3:  | 
 |   **Day 3:** | Block 4: | Lunch / Check Out  |
 
@@ -114,8 +114,8 @@ Location:  [Accreditation Resource Conference ARC](https://www.wscuc.org/event/a
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [3E Group Project](https://wascsenior.box.com/s/g0ujfxebozw4l16snha91k87gp6qxo6a)                   |  TBD  |  TBD| [Submit Assignment]()|
-| [Individual Research Project](https://wascsenior.box.com/s/mehme75mc9ucv8xg1pnasdodl3xz61ea)          |  TBD |  TBD  | [Submit Assignment]()  |
+| [3E Group Project](https://wascsenior.box.com/s/g0ujfxebozw4l16snha91k87gp6qxo6a)                   |  7/24/2023  |  1/11/2024| [Submit Assignment]()|
+| [Individual Research Project](https://wascsenior.box.com/s/mehme75mc9ucv8xg1pnasdodl3xz61ea)          |  7/24/203 |  4/17/2024  | [Submit Assignment]()  |
 
 
 
