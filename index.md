@@ -59,11 +59,11 @@ By the end of the course, you will be able to ...
 |  2 |  Mon, July 24    |   Mon, July 31  | [Introduction in Moodle](https://wscuc.moodlecloud.com/mod/forum/view.php?id=234) |  
 | 3 |  Mon, July 24     |   Mon, July 31  | [Survey in Moodle](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=235)  |
 |  4 |  Mon, July 24   |   Mon, Aug 7  | [Inquiry Based Learning Module](https://wscuc.moodlecloud.com/mod/lesson/view.php?id=237) |
-| 5 |  Tue-Thu, Aug 8 - 10      |   N/A         | In Person Meeting    🙂  |
+| 5 |  Tue-Thu, Aug 8 - 10      |   N/A         | _In Person Meeting_     |
 | 6 | Mon, Aug 14     |   Noon - 1pm PST       | ALA Zoom call with Mentors |
-| 7 |  Tue-Thu, Oct 24-26      |   N/A         | In Person Meeting    🙂  |
-| 8 | Tue-Thu, Jan 9-11      | N/A        | In Person Meeting 🙂   |
-| 9 | Wed-Thu, April 17-18   | N/A  | ARC - In Person Meeting 🙂  |
+| 7 |  Tue-Thu, Oct 24-26      |   N/A         | _In Person Meeting_    |
+| 8 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
+| 9 | Wed-Thu, April 17-18   | N/A  | _ARC - In Person Meeting_  |
 
 
 
@@ -73,16 +73,16 @@ By the end of the course, you will be able to ...
 
 ## In Person Meetings
 **August 8-10, 2023**
-Location: TBD
+Location: Northern California
 
-|        | Morning   | Morning   |  Afternoon   |  Afternoon |
-|:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-|   **Day 1:**  | Arrival | Block 1:  |Block 1:  |  Block 1:  |
-|   **Day 2:** | Block 2:  | Block 3:  | Block 4:   | Block 5:  |
-|   **Day 3:** | Block 6:   | Block 7:  | Block 8:  | Check Out  |
+|        | Morning   | Morning   |  Afternoon   |  Afternoon | Evening |
+|:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+|   **Day 1:**  | Arrival | Introduction to the ALA |Inquiry and Individual Projects |  3 E Framework  | Happy Hour and Networking |
+|   **Day 2:** | Equity  | Equity  | Evidence  | Evidence  | Dinner with President Studley |
+|   **Day 3:** | Effectiveness  | Effectiveness  | Mentors and Next Steps  | Check Out  |
 
 **October 26-28,2023**
-Location: 
+Location: Northern California
 
 |        | Morning     |  Afternoon    |
 |:-----------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
@@ -91,7 +91,7 @@ Location:
 |   **Day 3:** | Block 4: | Lunch / Check Out  |
 
 **January 9-11, 2024**
-Location:  
+Location:  Southern California
 
 |        | Morning     |  Afternoon    |
 |:-----------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
@@ -99,13 +99,13 @@ Location:
 |   **Day 2:** | Block 2:  | Block 3:  | 
 |   **Day 3:** | Block 4: | Lunch / Check Out  |
 
-**January 17-18, 2024**
-Location:  
+**April 17-18, 2024**
+Location:  [Accreditation Resource Conference ARC](https://www.wscuc.org/event/arc2024/) 
 
 |        | Morning     |  Afternoon    |
 |:-----------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|   **Day 1:**  | Arrival / Lunch |Block 1:  |
-|   **Day 2:** | Block 2:  | Block 3:  | 
+|   **Day 1:**  | Arrival  |Group Gathering |
+|   **Day 2:** | Presentations | Presentations  | 
 
 
 ## Assignment Schedule 
@@ -113,11 +113,9 @@ Location:
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Assignment 1 Draft]()                   |  ---  |  ---| [Submit Assignment]()|
-| [Assignment 2 Draft]()          |  --- |  ---  | [Submit Assignment]()  |
-| [Project Plan of Assignment 2]()        |  ---  |  --- | [Submit Assignment]()  |
-| [Final Presentation of Assignment 1]()   | ---  | --- | [Submit Assignment]()
-| [Final Draft of Assignment 2]()            |---  | --- | [Submit Assignment]()
+| [3E Group Project](https://wascsenior.box.com/s/g0ujfxebozw4l16snha91k87gp6qxo6a)                   |  TBD  |  TBD| [Submit Assignment]()|
+| [Individual Research Project](https://wascsenior.box.com/s/mehme75mc9ucv8xg1pnasdodl3xz61ea)          |  TBD |  TBD  | [Submit Assignment]()  |
+
 
 
 ## Class Assignments
