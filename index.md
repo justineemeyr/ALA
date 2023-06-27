@@ -115,7 +115,7 @@ Location:  [Accreditation Resource Conference ARC](https://www.wscuc.org/event/a
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
 | [3E Group Project](https://wascsenior.box.com/s/g0ujfxebozw4l16snha91k87gp6qxo6a)                   |  7/24/2023  |  1/11/2024| [Submit Assignment]()|
-| [Individual Research Project](https://wascsenior.box.com/s/mehme75mc9ucv8xg1pnasdodl3xz61ea)          |  7/24/203 |  4/17/2024  | [Submit Assignment]()  |
+| [Individual Research Project](https://wascsenior.box.com/s/mehme75mc9ucv8xg1pnasdodl3xz61ea)          |  7/24/2023 |  4/17/2024  | [Submit Assignment]()  |
 
 
 
