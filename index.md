@@ -55,14 +55,15 @@ By the end of the course, you will be able to ...
 
 | Activity |          Date Assigned    |  Due Date        |                 Topics                  |
 |:-----:|:----------------------:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, July 24    |   Mon, July 31  | [Introduction in Moodle]() |  
-| 2 |  Mon, July 24     |   Mon, July 31  | [Survey in Moodle]()  |
-|  3 |  Mon, July 31   |   Mon, Aug 7  | [Leadership Readings and Discussion in Moodle]() |
-| 4 |  Tue-Thu, Aug 8 - 10      |   N/A         | In Person Meeting    🙂  |
-| 5 | Thu, Aug 10      |   Thu, Aug 31        | [Assignment 2 Draft]() |
-| 6 |  Tue-Thu, Oct 24-26      |   N/A         | In Person Meeting    🙂  |
-| 7 | Tue-Thu, Jan 9-11      | N/A        | In Person Meeting 🙂   |
-| 8 | Wed-Thu, April 17-18   | N/A  | ARC - In Person Meeting 🙂  |
+| 1  | Wed, June 28   | Tue, Aug 8  |  [Pre-Meeting Readings](https://wascsenior.box.com/s/2q0mlu9un4omtkd2j7dew14uf0027nbd) |
+|  2 |  Mon, July 24    |   Mon, July 31  | [Introduction in Moodle](https://wscuc.moodlecloud.com/mod/forum/view.php?id=234) |  
+| 3 |  Mon, July 24     |   Mon, July 31  | [Survey in Moodle](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=235)  |
+|  4 |  Mon, July 24   |   Mon, Aug 7  | [Inquiry Based Learning Module](https://wscuc.moodlecloud.com/mod/lesson/view.php?id=237) |
+| 5 |  Tue-Thu, Aug 8 - 10      |   N/A         | In Person Meeting    🙂  |
+| 6 | Mon, Aug 14     |   Noon - 1pm PST       | ALA Zoom call with Mentors |
+| 7 |  Tue-Thu, Oct 24-26      |   N/A         | In Person Meeting    🙂  |
+| 8 | Tue-Thu, Jan 9-11      | N/A        | In Person Meeting 🙂   |
+| 9 | Wed-Thu, April 17-18   | N/A  | ARC - In Person Meeting 🙂  |
 
 
 
@@ -72,11 +73,11 @@ By the end of the course, you will be able to ...
 
 ## In Person Meetings
 **August 8-10, 2023**
-Location: 
+Location: TBD
 
 |        | Morning   | Morning   |  Afternoon   |  Afternoon |
 |:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-|   **Day 1:**  | Arrival | Check In  |Block 1:  |  Block 1:  |
+|   **Day 1:**  | Arrival | Block 1:  |Block 1:  |  Block 1:  |
 |   **Day 2:** | Block 2:  | Block 3:  | Block 4:   | Block 5:  |
 |   **Day 3:** | Block 6:   | Block 7:  | Block 8:  | Check Out  |
 
@@ -126,7 +127,9 @@ We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to pr
 
 
 Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. 
-- 🙋 For password questions or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org) 
+- 🙋 For password questions, library inquiries or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org)
+- 🙋 For logistics, schedule and administrative support email: [dchase@wscuc.org](dchase@wscuc.org)
+- 🙋 For academic and mentor support email: [kmcallister@minerva.edu](kmcallister@minerva.edu)
 
 
 ## Evaluation
@@ -142,9 +145,9 @@ To pass this course you must meet the following requirements:
 
 Any additional resources you may need can be found through the shared folder linked below:
 
-- [ALA Shared Resources]()
-- [ALA Collaborative Resource Library]()
-- [ALA Community of Practice]()
+- [ALA Resource Library](https://wascsenior.box.com/s/q7b08hqusdrldr0dh8hqmbihelkjldj9)
+- [ALA Collaborative Resource Library](https://wscuc.moodlecloud.com/mod/data/view.php?id=239)
+- [ALA Community of Practice](https://www.linkedin.com/groups/14272997/)
 
 
 
