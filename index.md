@@ -20,6 +20,7 @@ It addresses these themes through a focus on **Equity, Evidence, and Effectivene
 - Enhancing individual professional practice
 - Addressing an institutional need
 - Developing skilled leadership in higher education
+- Evaluating Technology and its applications
  
 The curriculum explores critical issues to produce actionable approaches to a pressing need identified by each participant and their institution. Participants learn through collaboration with Academy faculty and mentors, while simultaneously working with peers in various group settings. Faculty and mentors are leaders in higher education practice drawn from the WSCUC community and from the broader community of international scholars and professionals, WSCUC Fellows, Assessment Leadership Academy alumni, and Community of Practice (CoP) participants.
 
@@ -79,7 +80,7 @@ Location: Northern California
 |:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
 |   **Day 1:**  | Arrival | Introduction to the ALA |Inquiry and Individual Projects |  3 E Framework  | Happy Hour and Networking |
 |   **Day 2:** | Equity  | Equity  | Evidence  | Evidence  | Dinner with President Studley |
-|   **Day 3:** | Effectiveness  | Effectiveness  | Mentors and Next Steps  | Check Out  |
+|   **Day 3:** | Effectiveness  | Effectiveness  | Mentors and Next Steps  | Check Out  | --- |
 
 **October 26-28,2023**
 Location: Northern California
