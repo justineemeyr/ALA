@@ -62,11 +62,20 @@ By means of your experiences in the ALA, you will be able to:
 | 3 |  Mon, July 24     |   Mon, July 31  | [Survey in Moodle](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=235)  |
 |  4 |  Mon, July 24   |   Mon, Aug 7  | [Inquiry Based Learning Module](https://wscuc.moodlecloud.com/mod/lesson/view.php?id=237) |
 | 5 |  Tue-Thu, Aug 8 - 10      |   N/A         | _In Person Meeting_     |
-| 6 | Mon, Aug 14     |   Noon - 1pm PST       | ALA Zoom call with Mentors |
-| 7 |  Tue-Thu, Oct 24-26      |   N/A         | _In Person Meeting_    |
-| 8 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
-| 9 | Wed-Thu, April 17-18   | N/A  | _ARC - In Person Meeting_  |
-
+|  6  | Tue, Aug 8         |   Fri, Sept 1         |   Rough Draft of Individual Project              |
+| 7 | Mon, Aug 14     |   Noon - 1pm PST       | ALA Zoom call with Mentors |
+|  8  |  Tue, Aug 8                |  Sun, Oct 22          | Individual Project Plan               |
+|9  | Tue, Aug 8  |  Tue, Oct 22  |  3E Group Materials due in Moodle |
+|10  | Tue, Aug 8  |  Tue, Oct 24  |  3E Group Presentation |
+| 11 |  Tue-Thu, Oct 24-26      |   N/A         | _In Person Meeting_    |
+| 12 |  Tue, Oct 24     |   Sun, Nov 19        | 3E Feedback due in Moodle   |
+| 13 |  TBD    |   Early December       | 3E Group Zoom Meeting  |
+|  14  | Tue, Oct 24                | Sun, Jan 7            |  Individual Project Presentation and Report               |
+|  15  | Tue, Oct 24                | Sun, Jan 7            |  3E Project deliverable due in Moodle              |
+|  16  | Tue, Oct 24                | Tue, Jan 11            |  3E Group Project Presentation           |
+| 17 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
+| 18 | Wed-Thu, April 17-18   | N/A  | _ARC - In Person Meeting_  |
+| 19   |   Tue, Jan 9               |    Sun, Mar 31        |   Final Draft Individual Project              |
 
 
 ---
@@ -75,8 +84,11 @@ By means of your experiences in the ALA, you will be able to:
 
 ## In Person Meetings
 **August 8-10, 2023**
+
 **October 24-26,2023**
+
 **January 9-11, 2024**
+
 **April 17-18, 2024**
 
 Each in-person meeting will follow the outline below with specific topics and detailed information made available in advance of each meeting:
@@ -95,8 +107,8 @@ Each in-person meeting will follow the outline below with specific topics and de
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [3E Group Project](https://wascsenior.box.com/s/g0ujfxebozw4l16snha91k87gp6qxo6a)                   |  7/24/2023  |  1/11/2024| [Submit Assignment]()|
-| [Individual Research Project](https://wascsenior.box.com/s/mehme75mc9ucv8xg1pnasdodl3xz61ea)          |  7/24/2023 |  4/17/2024  | [Submit Assignment]()  |
+| [3E Group Project](https://wascsenior.box.com/s/blhe0sk3284vc7z2q3bhyqr2pzob4ekg)                   |  7/24/2023  |  1/7/2024| [Submit Assignment]()|
+| [Individual Research Project]( https://wascsenior.box.com/s/sh0f1d6vpwhzuk215srm0s1ze6s34hsc)        |  7/24/2023 |  3/31/2024  | [Submit Assignment]()  |
 
 
 
