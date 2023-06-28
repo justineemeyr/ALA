@@ -83,13 +83,10 @@ By means of your experiences in the ALA, you will be able to:
 
 
 ## In Person Meetings
-**August 8-10, 2023**
-
-**October 24-26,2023**
-
-**January 9-11, 2024**
-
-**April 17-18, 2024**
+-**August 8-10, 2023**
+-**October 24-26,2023**
+-**January 9-11, 2024**
+-**April 17-18, 2024**
 
 Each in-person meeting will follow the outline below with specific topics and detailed information made available in advance of each meeting:
 
