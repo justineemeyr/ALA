@@ -11,18 +11,19 @@
 ## Course Description
 
 The WASC Senior College & University Commission Accreditation Leadership Academy (WSCUC) is a professional development program for higher education leaders. Through the application of both theoretical and practical frameworks for thought and action, the ALA considers the intersections and implications of:
- 
-- The assurance of equity and the importance of inclusion and diversity in higher education culture and practice
+
 - The need for effective leadership, systems, and evidence to achieve quality
+- The assurance of equity and the importance of inclusion and diversity in higher education culture and practice
  
 It addresses these themes through a focus on **Equity, Evidence, and Effectiveness** in service of:
  
 - Enhancing individual professional practice
 - Addressing an institutional need
 - Developing skilled leadership in higher education
+- Networking opportunities for participants
 - Evaluating Technology and its applications
  
-The curriculum explores critical issues to produce actionable approaches to a pressing need identified by each participant and their institution. Participants learn through collaboration with Academy faculty and mentors, while simultaneously working with peers in various group settings. Faculty and mentors are leaders in higher education practice drawn from the WSCUC community and from the broader community of international scholars and professionals, WSCUC Fellows, Assessment Leadership Academy alumni, and Community of Practice (CoP) participants.
+The curriculum explores critical and timely issues to produce actionable approaches to a pressing need identified by each participant and their institution. Participants learn through collaboration with Academy faculty and mentors, while simultaneously working with peers in various group settings. Faculty and mentors are leaders in higher education practice drawn from the WSCUC community and from the broader community of scholars and professionals throughout the country and beyond.
 
 
 ## Course Specifics
@@ -33,18 +34,18 @@ The curriculum explores critical issues to produce actionable approaches to a pr
 ## Learning Outcomes
 
 
-By the end of the course, you will be able to ...
+By means of your experiences in the ALA, you will be able to:
 
-1.	Participants will develop and integrate leadership and collaborative skills into personal professional practice.
-2.	Participants will define and be able to explain the ALA Framework of Evidence, Equity, and Effectiveness (EEE).
-3.	Participants will construct a collaborative understanding of the potential for application of the ALA Framework across higher education practice. 
-4.	Participants will apply the ALA Framework to a specific problem facing the participant’s institution.
-5.	Participants will communicate with and contribute to WSCUC’s Educational Programs community, including Assessment Leadership and Community of Practice (CoP) alumni.
-
-
+1. Develop and integrate leadership and collaborative skills into personal and professional practice.
+2. Define and be able to explain the ALA Framework of Evidence, Equity, and Effectiveness (EEE).
+3. Construct a collaborative understanding of the potential for application of the ALA Framework across higher education practice.
+4. Apply the ALA Framework to a specific problem facing the participant’s institution.
+5. Serve as a member of WSCUC’s Educational Programs community and contribute to ongoing work and scholarship surrounding accreditation in higher education.
 
 
-## Schedule
+
+
+## Schedule 
 
 ---
 
@@ -74,42 +75,22 @@ By the end of the course, you will be able to ...
 
 ## In Person Meetings
 **August 8-10, 2023**
-Location: Northern California
-
-|        | Morning   | Morning   |  Afternoon   |  Afternoon | Evening |
-|:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-|   **Day 1:**  | Arrival | Introduction to the ALA |Inquiry and Individual Projects |  3 E Framework  | Happy Hour and Networking |
-|   **Day 2:** | Equity  | Equity  | Evidence  | Evidence  | Dinner with President Studley |
-|   **Day 3:** | Effectiveness  | Effectiveness  | Mentors and Next Steps  | Check Out  | --- |
-
 **October 24-26,2023**
-Location: Northern California
-
-|        | Morning     |  Afternoon    |
-|:-----------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|   **Day 1:**  | Intro / Lunch |Block 1:  |
-|   **Day 2:** | Block 2:  | Block 3: |
-|   **Day 3:** | Block 4: | Lunch / Check Out  |
-
 **January 9-11, 2024**
-Location:  Southern California
-
-|        | Morning     |  Afternoon    |
-|:-----------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|   **Day 1:**  | Intro / Lunch |Block 1:  |
-|   **Day 2:** | Block 2:  | Block 3:  | 
-|   **Day 3:** | Block 4: | Lunch / Check Out  |
-
 **April 17-18, 2024**
-Location:  [Accreditation Resource Conference ARC](https://www.wscuc.org/event/arc2024/) 
 
-|        | Morning     |  Afternoon    |
-|:-----------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|   **Day 1:**  | Arrival  |Group Gathering |
-|   **Day 2:** | Presentations | Presentations  | 
+Each in-person meeting will follow the outline below with specific topics and detailed information made available in advance of each meeting:
 
 
-## Assignment Schedule 
+|    | Day One and Day Two     | Day Three   |
+|:-------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+|   | Morning session 9:00 AM - 12:00 PM | Morning Session 9:00 AM - 12:00 PM |
+|   | Lunch 12:00 PM - 1:30 PM | 12:00 PM Lunch, check-out, and departure | 
+|   | Afternoon session 1:30 PM - 4:30 PM | ---| 
+|   | Dinner and Activity 6:00 PM | --| 
+
+
+## Assignments
 
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
@@ -131,10 +112,9 @@ Your Moodle login is your institution email address, and your password will be s
 - 🙋 For academic and mentor support email: [kmcallister@minerva.edu](kmcallister@minerva.edu)
 
 
-## Evaluation
+## ALA Completion
 
-
-To pass this course you must meet the following requirements:
+Successful completion of the ALA consists of meeting the following requirements:
 
 - Complete all required assignments 
 - Attend all in person meetings
