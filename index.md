@@ -63,20 +63,20 @@ By means of your experiences in the ALA, you will be able to:
 |  4 |  Mon, July 24   |   Mon, Aug 7  | [Inquiry Based Learning Module](https://wscuc.moodlecloud.com/mod/lesson/view.php?id=237) |
 | 5 |  Tue-Thu, Aug 8 - 10      |   N/A         | _In Person Meeting_     |
 | 6 |  Thu, Aug 10      |  Mon, Aug 14        | [ALA August Survey](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=249)    |
-|  6  | Tue, Aug 8         |   Fri, Sept 1         |   [Rough Draft of Proposal](https://wscuc.moodlecloud.com/mod/assign/view.php?id=250)       |
-| 7 | TBD     |   TBD       | ALA Zoom call with Mentors |
-|  8  |  Tue, Aug 8                |  Sun, Oct 22          | Draft Individual Project Plan               |
-|9  | Tue, Aug 8  |  Tue, Oct 22  |  3E Group Materials due in Moodle |
-|10  | Tue, Aug 8  |  Tue, Oct 24  |  3E Group Presentation |
-| 11 |  Tue-Thu, Oct 24-26      |   N/A         | _In Person Meeting_    |
-| 12 |  Tue, Oct 24     |   Sun, Nov 19        | 3E Feedback due in Moodle   |
-| 13 |  TBD    |   Early December       | 3E Group Zoom Meeting  |
-|  14  | Tue, Oct 24                | Sun, Jan 7            |  Individual Project Presentation and Report               |
-|  15  | Tue, Oct 24                | Sun, Jan 7            |  3E Project deliverable due in Moodle              |
-|  16  | Tue, Oct 24                | Tue, Jan 11            |  3E Group Project Presentation           |
-| 17 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
-| 18 | Wed-Thu, April 17-18   | N/A  | _ARC - In Person Meeting_  |
-| 19   |   Tue, Jan 9               |    Sun, Mar 31        |   Final Draft Individual Project              |
+|  7  | Tue, Aug 8         |   Fri, Sept 1         |   [Rough Draft of Proposal](https://wscuc.moodlecloud.com/mod/assign/view.php?id=250)       |
+| 8 | TBD     |   TBD       | ALA Zoom call with Mentors |
+|  9  |  Tue, Aug 8                |  Sun, Oct 22          | Draft Individual Project Plan               |
+|10  | Tue, Aug 8  |  Tue, Oct 22  |  3E Group Materials due in Moodle |
+|11 | Tue, Aug 8  |  Tue, Oct 24  |  3E Group Presentation |
+| 12 |  Tue-Thu, Oct 24-26      |   N/A         | _In Person Meeting_    |
+| 13 |  Tue, Oct 24     |   Sun, Nov 19        | 3E Feedback due in Moodle   |
+| 14 |  TBD    |   Early December       | 3E Group Zoom Meeting  |
+|  15  | Tue, Oct 24                | Sun, Jan 7            |  Individual Project Presentation and Report               |
+|  16  | Tue, Oct 24                | Sun, Jan 7            |  3E Project deliverable due in Moodle              |
+|  17  | Tue, Oct 24                | Tue, Jan 11            |  3E Group Project Presentation           |
+| 18 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
+| 19 | Wed-Thu, April 17-18   | N/A  | _ARC - In Person Meeting_  |
+| 20   |   Tue, Jan 9               |    Sun, Mar 31        |   Final Draft Individual Project              |
 
 
 ---
@@ -105,8 +105,8 @@ Each in-person meeting will follow the outline below with specific topics and de
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [3E Group Project](https://wascsenior.box.com/s/blhe0sk3284vc7z2q3bhyqr2pzob4ekg)                   |  7/24/2023  |  1/7/2024| [Submit Assignment]()|
-| [Individual Research Project]( https://wascsenior.box.com/s/sh0f1d6vpwhzuk215srm0s1ze6s34hsc)        |  7/24/2023 |  3/31/2024  | [Submit Assignment]()  |
+| [3E Group Project](https://wascsenior.box.com/s/blhe0sk3284vc7z2q3bhyqr2pzob4ekg)                   |  7/24/2023  |  1/7/2024| Submit Assignment|
+| [Individual Research Project]( https://wascsenior.box.com/s/sh0f1d6vpwhzuk215srm0s1ze6s34hsc)        |  7/24/2023 |  3/31/2024  | Submit Assignment  |
 
 
 
