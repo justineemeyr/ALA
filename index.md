@@ -64,7 +64,7 @@ By means of your experiences in the ALA, you will be able to:
 | 5 |  Tue-Thu, Aug 8 - 10      |   N/A         | _In Person Meeting_     |
 | 6 |  Thu, Aug 10      |  Mon, Aug 14        | [ALA August Survey](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=249)    |
 |  7  | Tue, Aug 8         |   Fri, Sept 1         |   [Rough Draft of Proposal](https://wscuc.moodlecloud.com/mod/assign/view.php?id=250)       |
-| 8 | Wed, Aug 30     |  Wed, Aug 30 6pm       | Optional Zoom: Introducing Individual Project Mentorship  |
+| 8 | TBD    |  TBD       | Optional Zoom: Introducing Individual Project Mentorship  |
 |  9  |  Tue, Aug 8                |  Sun, Oct 22          | Draft Individual Project Plan               |
 |10  | Tue, Aug 8  |  Tue, Oct 22  |  3E Group Materials due in Moodle |
 |11 | Tue, Aug 8  |  Tue, Oct 24  |  3E Group Presentation |
