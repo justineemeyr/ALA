@@ -64,7 +64,7 @@ By means of your experiences in the ALA, you will be able to:
 | 5 |  Tue-Thu, Aug 8 - 10      |   N/A         | _In Person Meeting_     |
 | 6 |  Thu, Aug 10      |  Mon, Aug 14        | [ALA August Survey](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=249)    |
 |  7  | Tue, Aug 8         |   Fri, Sept 1         |   [Rough Draft of Proposal](https://wscuc.moodlecloud.com/mod/assign/view.php?id=250)       |
-| 8 | TBD     |   TBD       | ALA Zoom call with Mentors |
+| 8 | Tue, Aug 29     |  Tue, Aug 29 6pm       | Optional Zoom: Introducing Individual Project Mentorship  |
 |  9  |  Tue, Aug 8                |  Sun, Oct 22          | Draft Individual Project Plan               |
 |10  | Tue, Aug 8  |  Tue, Oct 22  |  3E Group Materials due in Moodle |
 |11 | Tue, Aug 8  |  Tue, Oct 24  |  3E Group Presentation |
@@ -117,8 +117,8 @@ We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to pr
 
 
 Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. 
-- 🙋 For online activities, library inquiries or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org)
-- 🙋 For logistics, schedule and administrative support email: [dchase@wscuc.org](dchase@wscuc.org)
+- 🙋 For online activities or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org)
+- 🙋 For logistics, schedule, resources and administrative support email: [dchase@wscuc.org](dchase@wscuc.org)
 - 🙋 For academic and mentor support email: [kmcallister@minerva.edu](kmcallister@minerva.edu)
 
 
