@@ -117,8 +117,8 @@ We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to pr
 
 
 Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. 
-- 🙋 For online activities or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org)
-- 🙋 For logistics, schedule, resources and administrative support email: [dchase@wscuc.org](dchase@wscuc.org)
+- 🙋 For online activities, resources or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org)
+- 🙋 For logistics, schedule and administrative support email: [dchase@wscuc.org](dchase@wscuc.org)
 - 🙋 For academic and mentor support email: [kmcallister@minerva.edu](kmcallister@minerva.edu)
 
 
