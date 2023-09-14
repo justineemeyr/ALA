@@ -65,18 +65,19 @@ By means of your experiences in the ALA, you will be able to:
 | 6 |  Thu, Aug 10      |  Mon, Aug 14        | [ALA August Survey](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=249)    |
 |  7  | Tue, Aug 8         |   Fri, Sept 1         |   [Rough Draft of Proposal](https://wscuc.moodlecloud.com/mod/assign/view.php?id=250)       |
 | 8 | Wed, Aug 30    |  Wed, Aug 30 7:30pm       | [Optional Zoom: Introducing Individual Project Mentorship](https://wascsenior.box.com/s/2jgn2dxxqu9wcm3cv8n2fc1hgywb6a05)  |
-|  9  |  Tue, Aug 8                |  Sun, Oct 22          | Draft Individual Project Plan               |
-|10  | Tue, Aug 8  |  Tue, Oct 22  |  3E Group Materials due in Moodle |
-|11 | Tue, Aug 8  |  Tue, Oct 24  |  3E Group Presentation |
-| 12 |  Tue-Thu, Oct 24-26      |   N/A         | _In Person Meeting_    |
-| 13 |  Tue, Oct 24     |   Sun, Nov 19        | 3E Feedback due in Moodle   |
-| 14 |  TBD    |   Early December       | 3E Group Zoom Meeting  |
-|  15  | Tue, Oct 24                | Sun, Jan 7            |  Individual Project Presentation and Report               |
-|  16  | Tue, Oct 24                | Sun, Jan 7            |  3E Project deliverable due in Moodle              |
-|  17  | Tue, Oct 24                | Tue, Jan 11            |  3E Group Project Presentation           |
-| 18 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
-| 19 | Wed-Thu, April 17-18   | N/A  | _ARC - In Person Meeting_  |
-| 20   |   Tue, Jan 9               |    Sun, Mar 31        |   Final Draft Individual Project              |
+|  9  |  Fri, Sept 22              |  12pm - 1pm          | Optional 3E Framework Zoom Luncheon             |
+|  10  |  Tue, Aug 8                |  Sun, Oct 22          | Draft Individual Project Plan               |
+|11 | Tue, Aug 8  |  Tue, Oct 22  |  3E Group Materials due in Moodle |
+|12 | Tue, Aug 8  |  Tue, Oct 24  |  3E Group Presentation |
+| 13 |  Tue-Thu, Oct 24-26      |   N/A         | _In Person Meeting_    |
+| 14 |  Tue, Oct 24     |   Sun, Nov 19        | 3E Feedback due in Moodle   |
+| 15 |  TBD    |   Early December       | 3E Group Zoom Meeting  |
+|  16  | Tue, Oct 24                | Sun, Jan 7            |  Individual Project Presentation and Report               |
+|  17  | Tue, Oct 24                | Sun, Jan 7            |  3E Project deliverable due in Moodle              |
+|  18  | Tue, Oct 24                | Tue, Jan 11            |  3E Group Project Presentation           |
+| 19 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
+| 20 | Wed-Thu, April 17-18   | N/A  | _ARC - In Person Meeting_  |
+| 21  |   Tue, Jan 9               |    Sun, Mar 31        |   Final Draft Individual Project              |
 
 
 ---
@@ -117,8 +118,8 @@ We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to pr
 
 
 Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. 
-- 🙋 For online activities, resources or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org)
-- 🙋 For logistics, schedule and administrative support email: [dchase@wscuc.org](dchase@wscuc.org)
+- 🙋 For general communications, online activites or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org)
+- 🙋 For logistics, hotel reservations and schedule email: [jkotovsky@wscuc.org](jkotovsky@wscuc.org)
 - 🙋 For academic and mentor support email: [kmcallister@minerva.edu](kmcallister@minerva.edu)
 
 
