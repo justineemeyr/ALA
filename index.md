@@ -66,10 +66,10 @@ By means of your experiences in the ALA, you will be able to:
 |  7  | Tue, Aug 8         |   Fri, Sept 1         |   [Rough Draft of Proposal](https://wscuc.moodlecloud.com/mod/assign/view.php?id=250)       |
 | 8 | Wed, Aug 30    |  Wed, Aug 30 7:30pm       | [Optional Zoom: Introducing Individual Project Mentorship](https://wascsenior.box.com/s/2jgn2dxxqu9wcm3cv8n2fc1hgywb6a05)  |
 |  9  |  Fri, Sept 22              |  12pm - 1pm          | Optional 3E Framework Zoom Luncheon             |
-|  10  |  Tue, Aug 8                |  Sun, Oct 22          | Draft Individual Project Plan               |
+|  10  |  Tue, Aug 8                |  Sun, Oct 22          | [Draft Individual Project Plan](https://wscuc.moodlecloud.com/mod/assign/view.php?id=260)               |
 |11 | Tue, Aug 8  |  Tue, Oct 22  |  [3E Group Pre-read materials due in Moodle](https://wscuc.moodlecloud.com/mod/assign/view.php?id=257)  |
 |12 | Tue, Aug 8  |  Tue, Oct 26  |  [3E Group Presentation due in Moodle](https://wscuc.moodlecloud.com/mod/assign/view.php?id=258) |
-| 13 |  Mon, Oct 2     |   TBD       | Pre-Readings and Discussions  |
+| 13 |  TBD    |   TBD       | Pre-Readings and Discussions  |
 | 14 |  Tue-Thu, Oct 24-26      |   N/A         | _In Person Meeting_    |
 | 15 |  Tue, Oct 24     |   Sun, Nov 19        | 3E Feedback due in Moodle   |
 | 16 |  TBD    |   Early December       | 3E Group Zoom Meeting  |
