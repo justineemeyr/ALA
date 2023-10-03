@@ -69,7 +69,7 @@ By means of your experiences in the ALA, you will be able to:
 |  10  |  Tue, Aug 8                |  Sun, Oct 22          | [Draft Individual Project Plan](https://wscuc.moodlecloud.com/mod/assign/view.php?id=260)               |
 |11 | Tue, Aug 8  |  Tue, Oct 22  |  [3E Group Pre-read materials due in Moodle](https://wscuc.moodlecloud.com/mod/assign/view.php?id=257)  |
 |12 | Tue, Aug 8  |  Tue, Oct 26  |  [3E Group Presentation due in Moodle](https://wscuc.moodlecloud.com/mod/assign/view.php?id=258) |
-| 13 |  TBD    |   TBD       | Pre-Readings and Discussions  |
+| 13 |  Mon, Oct 2    |   Mon, Oct 16       | [Pre-Readings and Discussions](https://wscuc.moodlecloud.com/mod/forum/view.php?id=261)  |
 | 14 |  Tue-Thu, Oct 24-26      |   N/A         | _In Person Meeting_    |
 | 15 |  Tue, Oct 24     |   Sun, Nov 19        | 3E Feedback due in Moodle   |
 | 16 |  TBD    |   Early December       | 3E Group Zoom Meeting  |
