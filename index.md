@@ -28,7 +28,7 @@ The curriculum explores critical and timely issues to produce actionable approac
 
 ## Course Specifics
 
-| **Course Delivery**:   In Person / [Moodle](https://wscuc.moodlecloud.com/) | 10 months | July 24, 2023 - April 18, 2024 |
+| **Course Delivery**:   In Person / [Moodle](https://wscuc.moodlecloud.com/) | 10 months | July 24, 2023 - April 20, 2024 |
 
 
 ## Learning Outcomes
@@ -37,9 +37,9 @@ The curriculum explores critical and timely issues to produce actionable approac
 By means of your experiences in the ALA, you will be able to:
 
 1. Develop and integrate leadership and collaborative skills into personal and professional practice.
-2. Define and be able to explain the ALA Framework of Evidence, Equity, and Effectiveness (EEE).
-3. Construct a collaborative understanding of the potential for application of the ALA Framework across higher education practice.
-4. Apply the ALA Framework to a specific problem facing the participant’s institution.
+2. Define and be able to explain Evidence, Equity, and Effectiveness (3Es) in relation to higher education and accreditation.
+3. Construct a collaborative understanding of the potential for application of the 3Es across higher education practice.
+4. Apply the 3Es to a specific problem facing the participant’s institution.
 5. Serve as a member of WSCUC’s Educational Programs community and contribute to ongoing work and scholarship surrounding accreditation in higher education.
 
 
@@ -50,7 +50,7 @@ By means of your experiences in the ALA, you will be able to:
 ---
 
 
-**Course Dates:** Monday, July 24 2023 – Thursday, April 18, 2024 
+**Course Dates:** Monday, July 24 2023 – Thursday, April 20, 2024 
 
 - *Due to the inductive model of the ALA, assignments will be added to the syllabus as the course proceeds*
 
@@ -71,13 +71,13 @@ By means of your experiences in the ALA, you will be able to:
 |12 | Tue, Aug 8  |  Tue, Oct 26  |  [3E Group Presentation due in Moodle](https://wscuc.moodlecloud.com/mod/assign/view.php?id=258) |
 | 13 |  Mon, Oct 2    |   Mon, Oct 16       | [Pre-Readings and Discussions](https://wscuc.moodlecloud.com/mod/forum/view.php?id=261)  |
 | 14 |  Tue-Thu, Oct 24-26      |   N/A         | _In Person Meeting_    |
-| 15 |  Tue, Oct 24     |   Sun, Nov 19        | 3E Feedback due in Moodle   |
+| 15 |  Tue, Oct 24     |   Sun, Nov 19        | 3E Feedback via email  |
 | 16 |  TBD    |   Early December       | 3E Group Zoom Meeting  |
 |  17  | Tue, Oct 24                | Sun, Jan 7            |  Individual Project Presentation and Report               |
 |  18  | Tue, Oct 24                | Sun, Jan 7            |  3E Project deliverable due in Moodle              |
 |  19  | Tue, Oct 24                | Tue, Jan 11            |  3E Group Project Presentation           |
 | 20 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
-| 21 | Wed-Thu, April 17-18   | N/A  | _ARC - In Person Meeting_  |
+| 21 | Wed-Thu, April 18-20   | N/A  | _ARC - Optional In Person Meeting_  |
 | 22  |   Tue, Jan 9               |    Sun, Mar 31        |   Final Draft Individual Project              |
 
 
@@ -89,7 +89,7 @@ By means of your experiences in the ALA, you will be able to:
 <br>-**August 8-10, 2023** 
 <br>-**October 24-26,2023**
 <br>-**January 9-11, 2024**
-<br>-**April 17-18, 2024**
+<br>-**Accreditation Resource Conference: April 18-20, 2024**
 
 Each in-person meeting will follow the outline below with specific topics and detailed information made available in advance of each meeting:
 
