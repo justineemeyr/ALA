@@ -75,10 +75,13 @@ By means of your experiences in the ALA, you will be able to:
 | 16 |  Tue, Oct 24     |   Sun, Nov 19        | 3E Feedback via email  |
 | 17 |  Th, Nov 7    |   Th, Nov 7 @ noon       | 3E Group Zoom Meeting  |
 |  18  | Tue, Oct 24                | Sun, Jan 7            |  [Individual Project Abstract](https://wscuc.moodlecloud.com/mod/assign/view.php?id=279)                |
-|  19  | Tue, Oct 24                | Sun, Jan 7            |  [3E Project deliverable due in Moodle](https://wscuc.moodlecloud.com/mod/assign/view.php?id=281)              ||
-| 20 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
-| 21 |   Tue, Jan 9               |    Sun, Mar 31        |   [Final Draft Individual Project](https://wscuc.moodlecloud.com/mod/assign/view.php?id=280)              |
-| 22 | Wed-Thu, April 18-20   | N/A  | _ARC - Optional In Person Meeting_  |
+|  19  | Tue, Oct 24                | Sun, Jan 7            |  [Individual Project Draft project report](https://wscuc.moodlecloud.com/mod/assign/view.php?id=282)                |
+|  20  | Tue, Oct 24                | Sun, Jan 7            |  [3E Project deliverable due in Moodle](https://wscuc.moodlecloud.com/mod/assign/view.php?id=281)              ||
+| 21 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
+| 22 | February     | TBD       | Zoom on Publishing your Individual Project  |
+| 23 | March     |TBD       | Office Hours for Individual Project |
+| 24 |   Tue, Jan 9               |    Sun, Mar 31        |   [Final Individual Project](https://wscuc.moodlecloud.com/mod/assign/view.php?id=280)              |
+| 25 | Wed-Thu, April 18-20   | N/A  | _ARC - Optional In Person Meeting_  |
 
 
 ---
