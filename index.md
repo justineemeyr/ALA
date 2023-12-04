@@ -107,8 +107,8 @@ Each in-person meeting will follow the outline below with specific topics and de
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [3E Group Project](https://wascsenior.box.com/s/4w9m7bx1q0n97iok0ozmmhvq5frkbsxw)                 |  7/24/2023  |  1/7/2024| Submit Assignment|
-| [Individual Research Project]( https://wascsenior.box.com/s/sh0f1d6vpwhzuk215srm0s1ze6s34hsc)        |  7/24/2023 |  3/31/2024  | Submit Assignment  |
+| [3E Group Project](https://wascsenior.box.com/s/4w9m7bx1q0n97iok0ozmmhvq5frkbsxw)                 |  7/24/2023  |  1/7/2024| [Submit Assignment](https://wscuc.moodlecloud.com/mod/assign/view.php?id=281)|
+| [Individual Research Project]( https://wascsenior.box.com/s/sh0f1d6vpwhzuk215srm0s1ze6s34hsc)        |  7/24/2023 |  3/31/2024  | [Submit Assignment](https://wscuc.moodlecloud.com/mod/assign/view.php?id=280)  |
 
 
 
