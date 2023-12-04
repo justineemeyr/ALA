@@ -73,13 +73,12 @@ By means of your experiences in the ALA, you will be able to:
 | 14 |  Mon, Oct 16   |  Mon, Oct 23    | [Pre-Session Readings and Self-Reflections](https://wscuc.moodlecloud.com/mod/page/view.php?id=264)
 | 15 |  Tue-Thu, Oct 24-26      |   N/A         | _In Person Meeting_    |
 | 16 |  Tue, Oct 24     |   Sun, Nov 19        | 3E Feedback via email  |
-| 17 |  TBD    |   Early December       | 3E Group Zoom Meeting  |
-|  18  | Tue, Oct 24                | Sun, Jan 7            |  Individual Project Presentation and Report               |
-|  19  | Tue, Oct 24                | Sun, Jan 7            |  3E Project deliverable due in Moodle              |
-|  20  | Tue, Oct 24                | Tue, Jan 11            |  3E Group Project Presentation           |
-| 21 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
+| 17 |  Th, Nov 7    |   Th, Nov 7 @ noon       | 3E Group Zoom Meeting  |
+|  18  | Tue, Oct 24                | Sun, Jan 7            |  [Individual Project Abstract](https://wscuc.moodlecloud.com/mod/assign/view.php?id=279)                |
+|  19  | Tue, Oct 24                | Sun, Jan 7            |  [3E Project deliverable due in Moodle](https://wscuc.moodlecloud.com/mod/assign/view.php?id=281)              ||
+| 20 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
+| 21 |   Tue, Jan 9               |    Sun, Mar 31        |   [Final Draft Individual Project](https://wscuc.moodlecloud.com/mod/assign/view.php?id=280)              |
 | 22 | Wed-Thu, April 18-20   | N/A  | _ARC - Optional In Person Meeting_  |
-| 23  |   Tue, Jan 9               |    Sun, Mar 31        |   Final Draft Individual Project              |
 
 
 ---
@@ -108,7 +107,7 @@ Each in-person meeting will follow the outline below with specific topics and de
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [3E Group Project](https://wascsenior.box.com/s/039yt47cogd0q0pf935xczp6tx48a312)                   |  7/24/2023  |  1/7/2024| Submit Assignment|
+| [3E Group Project](https://wascsenior.box.com/s/ypuxatf6eylv8ccljyzsqve5giu13365)                 |  7/24/2023  |  1/7/2024| Submit Assignment|
 | [Individual Research Project]( https://wascsenior.box.com/s/sh0f1d6vpwhzuk215srm0s1ze6s34hsc)        |  7/24/2023 |  3/31/2024  | Submit Assignment  |
 
 
