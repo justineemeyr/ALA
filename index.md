@@ -78,9 +78,9 @@ By means of your experiences in the ALA, you will be able to:
 |  19  | Tue, Oct 24                | Sun, Jan 7            |  [Individual Project Draft project report](https://wscuc.moodlecloud.com/mod/assign/view.php?id=282)                |
 |  20  | Tue, Oct 24                | Sun, Jan 7            |  [3E Project deliverable due in Moodle](https://wscuc.moodlecloud.com/mod/assign/view.php?id=281)              ||
 | 21 | Tue-Thu, Jan 9-11      | N/A        | _In Person Meeting_   |
-| 22 | February     | TBD       | Zoom on Publishing your Individual Project  |
-| 23 | March     |TBD       | Office Hours for Individual Project |
-| 24 |   Tue, Jan 9               |    Sun, Mar 31        |   [Final Individual Project](https://wscuc.moodlecloud.com/mod/assign/view.php?id=280)              |
+| 22 | Wed, March 27    | 12-1pm       | Zoom on ALA Final Steps  |
+| 23 |   Tue, Jan 9               |    Sun, Mar 31        |   [Final Individual Project](https://wscuc.moodlecloud.com/mod/assign/view.php?id=280)              |
+| 24 | Fri, April 12     |12-1pm      | Zoom Graduation Celebration |
 | 25 | Wed-Thu, April 18-20   | N/A  | _ARC - Optional In Person Meeting_  |
 
 
